@@ -1,3 +1,5 @@
+![Social Card](assets/zadara-create-ssh-keys-TECH-STACK-TUESDAY.png)
+
 # Methods for Generating SSH Keys on Zadara
 
 There are 4 ways to generate ssh keys for the Zadara platform. In this tutorial
